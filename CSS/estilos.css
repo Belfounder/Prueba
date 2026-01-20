@@ -1,7 +1,10 @@
 body{
-    background-color: blanchedalmond;
+    background-color: rgb(251, 165, 37);
 }
 h1, p, ul{
     color: blue;
     font-family: helvetica;
-}
+    }
+    p{
+        font-weight: bold;
+    }
